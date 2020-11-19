@@ -1,0 +1,13 @@
+{
+  "name": "atividadesDevWebJS",
+  "version": "1.0.0",
+  "description": "Server que reúne todas as ativides da disciplina optativa de Desenvolvimento Web com JavaScript.",
+  "main": "index.js",
+  "repository": "https://github.com/viniciusveu/atividadesDevWebJS.git",
+  "author": "viniciusveu",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
